@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "android_app",
+    "namespace": "islamicapp",
     "package_name": "com.example.islamicapp",
     "sha256_cert_fingerprints":
     ["53:08:22:09:B0:B7:F8:DC:79:07:62:F1:35:3B:85:54:B8:52:33:55:ED:AF:99:31:22:4E:80:5E:9C:48:0A:BD"]
